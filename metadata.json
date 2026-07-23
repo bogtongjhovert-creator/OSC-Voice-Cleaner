@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Cleaner",
+  "description": "Apple-inspired web-based AI voice cleaner with noise reduction, voice enhancement, live microphone recording, waveform comparison, and audio export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
